@@ -1,2 +1,0 @@
-# zsq
-This is zsq
